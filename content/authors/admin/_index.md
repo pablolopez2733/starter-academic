@@ -6,12 +6,14 @@ title: Pablo López Landeros
 superuser: true
 
 # Role/position/tagline
-role: Applied Mathematics undergrad @ ITAM.
+role: Applied Mathematics undergrad.
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Instituto Tecnológico Autónomo de México
   url: https://www.itam.mx/
+- name: KPMG
+  url: https://home.kpmg/xx/en/home.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistics, machine learning and sports analytics.
