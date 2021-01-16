@@ -62,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume_eng.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,8 +73,10 @@ email: ""
 highlight_name: false
 ---
 
-Applied Mathematics student @ ITAM working on my thesis: Regression Analysis to predict the outcome of the NBA playoffs. Born and raised in Mexico City. Interested in Data Visualization, Machine Learning and Statistics applied to Sports Analytics and Bioinformatics. Check out my contributions at 9plus6. Which are all dedicated to data visualization and statistical analysis of the NBA, NFL and other major league sports.
+Applied Mathematics student @ ITAM where I co-founded a student organization dedicated to introducing students to sports analytics. Currently working on my thesis: Regression Analysis to predict the outcome of the NBA playoffs. My interests include data visualization, machine learning and bayesian analysis applied to sports analytics and bioinformatics. Check out my contributions at <a href="www.9plus6.com">9plus6</a>! Which are all dedicated to data visualization and statistical analysis of the NBA, NFL and other major league sports.
+<br>
+Contact: pablolopez2733@gmail.com
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}} in Spanish.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}} in English.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_esp.pdf" "newtab" >}}resumé{{< /staticref >}} in Spanish.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_eng.pdf" "newtab" >}}resumé{{< /staticref >}} in English.
