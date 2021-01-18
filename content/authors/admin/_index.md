@@ -51,9 +51,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Landeros_p33
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/pablolopez2733
@@ -66,7 +63,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/resume_eng.pdf
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -80,5 +77,4 @@ Applied Mathematics student @ ITAM where I co-founded a student organization ded
 Contact: pablolopez2733@gmail.com
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_esp.pdf" "newtab" >}}resumé{{< /staticref >}} in Spanish.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_eng.pdf" "newtab" >}}resumé{{< /staticref >}} in English.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
