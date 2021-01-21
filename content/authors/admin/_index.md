@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Applied Mathematics student @ ITAM where I co-founded a student organization dedicated to introducing students to sports analytics. Currently working on my thesis: Regression Analysis to predict the outcome of the NBA playoffs. My interests include data visualization, machine learning and bayesian analysis applied to sports analytics and bioinformatics. Check out my contributions at <a href="www.9plus6.com">9plus6</a>! Which are all dedicated to data visualization and statistical analysis of the NBA, NFL and other major league sports.
+Applied Mathematics student @ ITAM where I co-founded a student organization dedicated to introducing students to sports analytics. Currently working on my thesis: Regression Analysis to predict the outcome of the NBA playoffs. My interests include data visualization, machine learning and bayesian analysis applied to sports analytics and bioinformatics. Check out my contributions at <a href="https://9plus6.com/">9plus6</a>! Which are all dedicated to data visualization and statistical analysis of the NBA, NFL and other major league sports.
 
 <br>
 
