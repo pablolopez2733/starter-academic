@@ -34,7 +34,7 @@ feature:
   name: HTML
 - description: 100%
   icon: js-square
-  icon_pack: fas
+  icon_pack: fab
   name: JS
 - description: 70%
   icon: css3-alt
