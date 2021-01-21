@@ -21,13 +21,37 @@ feature:
   icon_pack: fab
   name: R
 - description: 100%
-  icon: chart-line
+  icon: database
   icon_pack: fas
-  name: Statistics
+  name: SQL
 - description: 70%
   icon: python
   icon_pack: fab
   name: Python
+- description: 90%
+  icon: html5
+  icon_pack: fab
+  name: HTML
+- description: 100%
+  icon: js-square
+  icon_pack: fas
+  name: JS
+- description: 70%
+  icon: css3-alt
+  icon_pack: fab
+  name: CSS
+- description: 90%
+  icon: r-project
+  icon_pack: fab
+  name: Matlab
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: GIT
+- description: 70%
+  icon: python
+  icon_pack: fab
+  name: C#
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
